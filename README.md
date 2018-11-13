@@ -38,6 +38,8 @@ const Input = ({
     </div>
   )
 }
+
+![demo](https://raw.githubusercontent.com/nudelx/debounce-hook/master/img/demo.gif)
 ```
 
 ## Installation
