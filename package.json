@@ -1,7 +1,7 @@
 {
   "name": "debounce-hook",
   "version": "1.0.0",
-  "description": "simple debounced onChange hook ",
+  "description": "simple debounce onChange hook",
   "main": "index.js",
   "repository": "https://github.com/nudelx/debounce-hook",
   "bugs": {
