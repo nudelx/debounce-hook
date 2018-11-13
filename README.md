@@ -1,4 +1,4 @@
-<p align="center"><img width="200px" height="200px" style="max-width: 100%; margin-right: auto;  margin-left: auto; " src="https://raw.githubusercontent.com/nudelx/debounce-hook/master/img/logo.png" >
+<p align="center">
 <img width="200px" height="200px" style="max-width: 100%; margin-right: auto;  margin-left: auto; " src="https://raw.githubusercontent.com/nudelx/debounce-hook/master/img/img.png" ></p>
 
 # React Debounce Hook
