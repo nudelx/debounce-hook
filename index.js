@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function(defaultValue, debounce, afterEffect) {
-  const [value, onInputChange] = React.useState(defaultValue)
+  const [value, onInputChange] = React.useState(defaultValue || '')
 
   React.useEffect(
     () => {

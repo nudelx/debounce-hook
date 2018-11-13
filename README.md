@@ -5,7 +5,7 @@
 
 React hook with debounced onChange and after effect call back ( React > 16.7.0 )
 
-`default debounce value = 400ms`
+`function(defaultValue| <default ''>, debounce: <default 400ms>, afterEffect: < optional callback>)`
 
 You can provide an aftereffect callback which will be triggered after debounce onInputChange
 
