@@ -1,7 +1,7 @@
 <p align="center"><img width="200px" height="200px" style="max-width: 100%; margin-right: auto;  margin-left: auto; " src="https://raw.githubusercontent.com/nudelx/debounce-hook/master/img/logo.png" >
 <img width="200px" height="200px" style="max-width: 100%; margin-right: auto;  margin-left: auto; " src="https://raw.githubusercontent.com/nudelx/debounce-hook/master/img/img.png" ></p>
 
-# React Hooks Composer
+# React Debounce Hook
 
 React hook with debounced onChange and after effect call back ( React > 16.7.0 )
 
